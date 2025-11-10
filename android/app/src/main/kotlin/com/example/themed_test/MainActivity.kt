@@ -1,0 +1,5 @@
+package com.example.themed_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
